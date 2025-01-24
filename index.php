@@ -1,3 +1,4 @@
 <?php
 	echo "this is my first php program";
-php>
+        echo "PHP web hosting";
+?>
